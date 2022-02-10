@@ -1,4 +1,6 @@
-## Olá :)
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?color=48D1CC&center=true&vCenter=true&multiline=false&lines=👾+Olá,+Meu+nome+é+Thiago;🍼+Tenho+16+anos">
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoLavra&show_icons=true&theme=dark)
 
