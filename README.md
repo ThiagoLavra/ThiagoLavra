@@ -34,7 +34,7 @@ It's a pleasure to meet you, <strong> I am Thiago</strong> 👋😄
 
 ## 🌐 Contact:
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/553398771399)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/_thiago.lavra)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/thiagolavra)
 
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoLavra&show_icons=true&theme=dark) | [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoLavra&show_icons=true&theme=dark&layout=compact)](https://github.com/ThiagoLavra) |
