@@ -3,7 +3,7 @@
 
   <h3>🚀 Automation Specialist & Bot Developer</h3>
 
-  [![Website](https://img.shields.io/badge/Nexus%20Studio-Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://nstudio.vercel.app/)
+  [![Website](https://img.shields.io/badge/Nexus%20Studio-Website-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://nstudio.vercel.app/)
   [![Instagram](https://img.shields.io/badge/@thiagolavra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagolavra)
   [![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553398771399)
 </div>
